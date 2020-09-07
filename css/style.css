@@ -8,14 +8,14 @@ body {
 }
 
 a {
-  color: #d29e02;
+  color: #EB5E28;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #d29e02;
+  color: #EB5E28;
   outline: none;
   text-decoration: none;
 }
@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -76,13 +76,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:focus {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
 }
 
@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #d29e02;
+  background: #EB5E28;
   bottom: 0;
   left: 0;
   /* left: calc(50% - 25px); */
@@ -163,7 +163,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 span {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #header #logo h1 a,
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #d29e02;
+  background-color: #EB5E28;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -290,10 +290,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu li.buy-tickets a {
   color: #fff;
-  background: #d29e02;
+  background: #EB5E28;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #d29e02;
+  border: 2px solid #EB5E28;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -334,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li:hover > a {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
 }
 
@@ -401,7 +401,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #mobile-nav ul li li {
@@ -418,11 +418,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #mobile-body-overly {
@@ -457,7 +457,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/intro-bg.jpg) top center;
+  background: url(http://ietebits.com/images/tech-udbhav/tech-udbhav.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -505,7 +505,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #intro p {
@@ -517,7 +517,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#d29e02 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#EB5E28 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -564,7 +564,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #d29e02;
+  border-left: 15px solid #EB5E28;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -602,11 +602,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #d29e02;
+  border: 2px solid #EB5E28;
 }
 
 #intro .about-btn:hover {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
 }
 
@@ -730,7 +730,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #speakers .speaker:hover .details {
@@ -765,7 +765,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
 }
 
@@ -810,7 +810,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #d29e02;
+  background-color: #EB5E28;
   color: #fff;
 }
 
@@ -896,7 +896,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #venue .venue-info {
-  background: url("../img/venue-info-bg.jpg") top center no-repeat;
+  background: url("https://www.bitsindri.ac.in/images/it_building.jpg") top center no-repeat;
   background-size: cover;
   position: relative;
   padding-top: 60px;
@@ -983,7 +983,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #hotels .stars {
@@ -1033,7 +1033,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #d29e02;
+  background-color: #EB5E28;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1041,7 +1041,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #d29e02;
+  border: 6px solid #EB5E28;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1130,7 +1130,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #faq #faq-list a.collapsed {
@@ -1183,7 +1183,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1243,7 +1243,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #d29e02;
+  background-color: #EB5E28;
   border: 0;
   color: #fff;
 }
@@ -1262,7 +1262,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #d29e02;
+  background-color: #EB5E28;
   border: 0;
   color: #fff;
 }
@@ -1288,7 +1288,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #contact .contact-info address,
@@ -1310,7 +1310,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #contact .contact-address,
@@ -1320,8 +1320,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #d29e02;
-  border: 1px solid #d29e02;
+  color: #EB5E28;
+  border: 1px solid #EB5E28;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1362,7 +1362,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #d29e02;
+  background: #EB5E28;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1434,7 +1434,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #d29e02;
+  background: #EB5E28;
   color: #fff;
 }
 
@@ -1445,7 +1445,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #d29e02;
+  border-bottom: 2px solid #EB5E28;
 }
 
 #footer .footer-top .footer-links {
@@ -1460,7 +1460,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #d29e02;
+  color: #EB5E28;
   font-size: 18px;
 }
 
@@ -1478,7 +1478,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #d29e02;
+  color: #EB5E28;
 }
 
 #footer .footer-top .footer-contact {
@@ -1500,7 +1500,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #d29e02;
+  background: #EB5E28;
   border: 0;
   width: 35%;
   padding: 6px 0;
