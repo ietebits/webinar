@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 0;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   color: #9195a2;
 }
 
@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: rgba(6, 12, 34, 0.9);
+  background: rgb(23 33 68);
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -590,7 +590,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro .about-btn {
   font-family: 'Poppins', sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
   display: inline-block;
@@ -680,6 +680,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   margin-bottom: 20px;
   color: #fff;
+  font-weight:500;
 }
 
 /*--------------------------------------------------------------
@@ -1297,6 +1298,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .contact-info p {
   margin-bottom: 0;
   color: #112363;
+  font-weight:600;
 }
 
 #contact .contact-info h3 {
@@ -1519,6 +1521,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
+  font-weight:600;
 }
 
 #footer .credits {
@@ -1530,6 +1533,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
+#intro .intro-container {
+  background:#060c2280;
+}
 
 @media (min-width: 767px) {
   #subscribe input {
